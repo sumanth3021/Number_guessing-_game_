@@ -45,8 +45,4 @@ The game continues until the computer correctly guesses the number.
 - Voice-based feedback using `speech_recognition`
 - Multiplayer mode
 
----
-
-## 📸 Demo (Console Output)
-
 
